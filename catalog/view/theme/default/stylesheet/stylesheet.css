@@ -845,12 +845,14 @@ table.list .desc {
 }
 
 .category-list ul {
-	float: left;
-	width: 18%;
+	/*float: left;
+	width: 18%;*/
 }
 
 .category-list ul li {
-	margin-top:5px;
+	/*margin-top:5px;*/
+	float: left;
+	margin: 5px 10px 3px 0;
 }
 
 .category-list .div a {
