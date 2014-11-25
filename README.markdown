@@ -61,7 +61,7 @@ min-shop可以配置不同的路由,比如你的访问链接index?route=commom/h
 
 
 ###如何获取min-shop最新更新信息
-关注我们的[min-shop官方微薄](http://weibo.com/apphui/ "min-shop官方微博"),获取最新的更新信息,我们会定期在微博上发布我们最新的更新和Bug修复信息.<br/><br/>
+关注我们的[min-shop官方微博](http://weibo.com/minws/ "min-shop官方微博"),获取最新的更新信息,我们会定期在微博上发布我们最新的更新和Bug修复信息.<br/><br/>
 
 ###如何帮助min-shop更好的发展
 min-shop是开源产品,用户可以免费使用,目前我们没有明确的盈利模式.如果你觉得min-shop还不错,欢迎你转发我们的微博,或者把min-shop分享给更多的人,如果你是开发者,欢迎你加入开发min-shop扩展和代码完善中来.<br/>
