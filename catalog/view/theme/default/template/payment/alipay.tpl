@@ -1,4 +1,4 @@
-<h2></h2>
+<h2>支付宝支付</h2>
 <p><img src="admin/view/image/payment/alipay.png" style="border: 1px solid #EEEEEE;width:280px;height:80px;"></p>
 <div class="buttons">
   <div class="right"><a id="button-confirm" class="button"><span><?php echo $button_confirm; ?></span></a></div>
