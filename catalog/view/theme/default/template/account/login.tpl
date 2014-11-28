@@ -86,6 +86,8 @@
 <input type="password" name="password" value="" class="span4" /><br />
 <br />
 <div class="left"><a onclick="$('#login').submit();" class="button"><span><?php echo $button_login; ?></span></a>
+	<script type="text/javascript">var c = 'catalog/view/oauth_css/oauth_login.css';</script>
+	<script src="index.php?route=account/oauth/login_js" type="text/javascript"></script>
 <a href="<?php echo $forgotten; ?>"><?php echo $text_forgotten; ?></a></div>
 	<?php if ($redirect) { ?> <input type="hidden" name="redirect"
 	value="<?php echo $redirect; ?>" /> <?php } ?></div>

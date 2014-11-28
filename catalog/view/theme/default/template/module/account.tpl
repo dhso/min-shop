@@ -1,5 +1,6 @@
 <div class="member-left">
 	<ul class="nav">
+	<li><script src="index.php?route=account/oauth/account_js" type="text/javascript"></script></li>
 	<?php if ($logged) { ?>
 		<li><h1><?php echo $text_orders;?></h1>
 			<dl class="navigation">
